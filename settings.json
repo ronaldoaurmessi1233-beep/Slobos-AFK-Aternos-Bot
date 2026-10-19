@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "VoltarzMC.aternos.me",
-    "port": 22134,
+    "ip": "VolterzMC.aternos.me",
+    "port": 51069,
     "version": "",
     "try-creative": false
   },
